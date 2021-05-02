@@ -1,6 +1,6 @@
 # reading-note
 
-#GROWTH MINDSET
+# GROWTH MINDSET
 ***( A growth mindset is when the person understand his abilities and then developed it )***
 
 
