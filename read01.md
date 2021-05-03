@@ -12,3 +12,6 @@
 * in the GitHub pages we can formatting syntax like (heading)
 , styling text like (bold, italic ,....etc.)
 links and emoji
+
+> Markdown cheat sheet provides a quick overview of all the Markdown syntax elements
+[Markdown cheat-sheet](https://www.markdownguide.org/cheat-sheet/)
