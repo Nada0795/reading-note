@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # VERSION CONTROL
 =======
 # GROWTH MINDSET
