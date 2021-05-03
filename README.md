@@ -16,3 +16,6 @@
 1. You must beleive in your self.
 2. It's not how good  are you , it's how good you want to be.
 3. Stop waiting for a Friday.
+
+
+[page two](https://github.com/Nada0795/reading-note/blob/main/read1)
