@@ -1,5 +1,5 @@
 # MINDSET GROWTH 
-` My name's is Nada, and this is some information of MINDSET GROWTH `
+` My name's Nada, and this is some information of MINDSET GROWTH `
 
 ![Growth Mindset](https://ncph.org/wp-content/uploads/2019/09/43058632290_623a3818a0_o.jpg)
 ~~flower image~~
