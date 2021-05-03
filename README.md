@@ -23,4 +23,4 @@
 3. Stop waiting for a Friday.
 
 
-[page two](https://github.com/Nada0795/reading-note/blob/main/read1)
+[More Information](https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means)
