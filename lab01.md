@@ -1,4 +1,4 @@
-GROWTH MINDSET
+# VERSION CONTROL
 ( A growth mindset is when the person understand his abilities and then developed it )
 
 Growth Mindset flower image
