@@ -11,7 +11,7 @@
 ![Growth Mindset 2](https://www.muhlsdk12.org/cms/lib/PA01916549/Centricity/Domain/225/growth%20mindset.JPG)
 
 
-***( A growth mindset is when the person understand his abilities and then developed it )***
+* A growth mindset is when the person understand his abilities and then developed it 
 >The mindsets change what people strive for and what they see as success. . . they change the definition, significance, and impact of failure. . . they change the deepest meaning of effort.
 
 **some of the reminders of how to keep yourself in a growth mindset :**
