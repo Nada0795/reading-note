@@ -1,21 +1,11 @@
-# reading-note
+## my intro
+>My name is Nada Alabdullah, I have graduated from albalqaa applied university,network engineer.
+i'm here becouse i want to develop my skills in programming and i want to be a Full Stack Developer.
 
-# GROWTH MINDSET
-***( A growth mindset is when the person understand his abilities and then developed it )***
+## Table
 
-
-![Growth Mindset](https://ncph.org/wp-content/uploads/2019/09/43058632290_623a3818a0_o.jpg)
-~~flower image~~
-
-```This is another image of growth mindset```
-
-
-![Growth Mindset 2](https://www.muhlsdk12.org/cms/lib/PA01916549/Centricity/Domain/225/growth%20mindset.JPG)
-
-**some of the reminders of how to keep yourself in a growth mindset :**
-1. You must beleive in your self.
-2. It's not how good  are you , it's how good you want to be.
-3. Stop waiting for a Friday.
-
-
-[page two](https://github.com/Nada0795/reading-note/blob/main/read1)
+| Read       | Column 2     |
+| :------------- | :----------: | 
+|  Read01 | [Link](Read01.md)|
+| Read02   | [Link](Read02.md)| 
+| lab1   | [Link](lab01.md)| 
