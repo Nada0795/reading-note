@@ -13,6 +13,7 @@
 
 ***( A growth mindset is when the person understand his abilities and then developed it )***
 >The mindsets change what people strive for and what they see as success. . . they change the definition, significance, and impact of failure. . . they change the deepest meaning of effort.
+
 **some of the reminders of how to keep yourself in a growth mindset :**
 1. You must beleive in your self.
 2. It's not how good  are you , it's how good you want to be.
