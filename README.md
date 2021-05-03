@@ -1,8 +1,6 @@
 # reading-note
 
 # GROWTH MINDSET
-***( A growth mindset is when the person understand his abilities and then developed it )***
-
 
 ![Growth Mindset](https://ncph.org/wp-content/uploads/2019/09/43058632290_623a3818a0_o.jpg)
 ~~flower image~~
