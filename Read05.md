@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # *Expressions and operators
 
 # OPERATORS
@@ -49,6 +50,8 @@ x *= y meaning x = x * y
 
 
 
+=======
+>>>>>>> c4bf82444ce7eadc4589c139b5426d5d88464bc8
 # *For Statement & While Statement*
 ## * For Statement
 A for loop repeats until a specified condition evaluates to false.
