@@ -2,8 +2,10 @@
 >My name is Nada Alabdullah, I have graduated from albalqaa applied university,network engineer.
 i'm here because i want to develop my skills in programming and i want to be a Full Stack Developer.
 
-## table of some of information
+## tables of some of information
  
+Code 101 & 102 Reading Notes
+
 
 | File name      | File link     |
 | :------------- | :----------: | 
@@ -11,3 +13,40 @@ i'm here because i want to develop my skills in programming and i want to be a F
 | Version Control (Git)   | [Link](https://nada0795.github.io/reading-note/read02)| 
 | Html   | [Link](https://nada0795.github.io/reading-note/read03)| 
 
+
+# Code 201 Reading Notes
+This page is talk about the reading in course 201
+we use :
+
+> unix and the Command Prompt
+> Git and GitHub
+> Text Editor
+> Chrome Dev Tools
+
+| File name      | File link     |
+| :------------- | :----------:  | 
+|  class01.md    | [Link](https://nada0795.github.io/reading-note/class01)|
+|  class02.md    | [Link](https://nada0795.github.io/reading-note/class02)| 
+|                |               | 
+|                |               |
+|                |               | 
+|                |               |
+|                |               | 
+|                |               |
+|                |               |
+|                |               | 
+|                |               | 
+|                |               |
+|                |               | 
+|                |               |
+|                |               | 
+|                |               |
+|                |               |
+|                |               | 
+|                |               |
+|                |               | 
+|                |               |
+|                |               | 
+|                |               |
+|                |               |
+|                |               | 
