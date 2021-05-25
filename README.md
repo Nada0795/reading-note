@@ -27,8 +27,8 @@ we use :
 | :------------- | :----------:  | 
 |  class01.md    | [Link](https://nada0795.github.io/reading-note/class01)|
 |  class02.md    | [Link](https://nada0795.github.io/reading-note/class02)| 
-|  class03.md    | [Link](https://nada0795.github.io/reading-note/class03)|          | 
-|                |               |
+|  class03.md    | [Link](https://nada0795.github.io/reading-note/class03)|          
+|  class04.md    | [Link](https://nada0795.github.io/reading-note/class04)|
 |                |               | 
 |                |               |
 |                |               | 
