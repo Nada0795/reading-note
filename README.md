@@ -29,8 +29,8 @@ we use :
 |  class02.md    | [Link](https://nada0795.github.io/reading-note/class02)| 
 |  class03.md    | [Link](https://nada0795.github.io/reading-note/class03)|          
 |  class04.md    | [Link](https://nada0795.github.io/reading-note/class04)|
-|  class05.md    | [Link](https://nada0795.github.io/reading-note/class04)| 
-|                |               |
+|  class05.md    | [Link](https://nada0795.github.io/reading-note/class05)| 
+|  class06.md    | [Link](https://nada0795.github.io/reading-note/class06)|
 |                |               | 
 |                |               |
 |                |               |
