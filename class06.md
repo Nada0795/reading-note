@@ -47,3 +47,7 @@ elRooms.textContent = hotel .checkAvailability();
 
 > NOTE :
 If you had two objects on the same page, you would create each one using the same notation but store them in variables with different names. 
+
+
+> ( References that i used )
+[Duckett JS book](https://ltuc-asac.slack.com/files/U019NRDFF97/F022SGL4CKV/duckett_html__1_.pdf)
