@@ -12,9 +12,9 @@ i'm here because i want to develop my skills in programming and i want to be a F
 
 | File name      | File link     |
 | :------------- | :----------: | 
-|  Markdown | [Link](https://nada0795.github.io/reading-note/read01)|
-| Version Control (Git)   | [Link](https://nada0795.github.io/reading-note/read02)| 
-| Html   | [Link](https://nada0795.github.io/reading-note/read03)| 
+|  Markdown | [Link](https://nada0795.github.io/reading-notes/101,102%20Course/read01)|
+|Version Control (Git)|[Link](https://nada0795.github.io/reading-notes/101,102%20Course/read02)| 
+| Html   | [Link](https://nada0795.github.io/reading-notes/101,102%20Course/read03)| 
 
 
 ## Code 201 - Foundations of Software Development
@@ -28,21 +28,21 @@ we use :
 
 | File name      | File link     |
 | :------------- | :----------:  | 
-|  class01.md    | [Link](https://nada0795.github.io/reading-note/class01)|
-|  class02.md    | [Link](https://nada0795.github.io/reading-note/class02)| 
-|  class03.md    | [Link](https://nada0795.github.io/reading-note/class03)|          
-|  class04.md    | [Link](https://nada0795.github.io/reading-note/class04)|
-|  class05.md    | [Link](https://nada0795.github.io/reading-note/class05)| 
-|  class06.md    | [Link](https://nada0795.github.io/reading-note/class06)|
-|  class07.md    | [Link](https://nada0795.github.io/reading-note/class07)| 
-|  class08.md    | [Link](https://nada0795.github.io/reading-note/class08)|              
-|  class09.md    | [Link](https://nada0795.github.io/reading-note/class09)|
-|  class10.md    | [Link](https://nada0795.github.io/reading-note/class10)| 
-|  class11.md    | [Link](https://nada0795.github.io/reading-note/class11)| 
-|  class12.md    | [Link](https://nada0795.github.io/reading-note/class12)| 
-|  class13.md    | [Link](https://nada0795.github.io/reading-note/class13)|   
-|  class14a.md   | [Link](https://nada0795.github.io/reading-note/class14a)|
-|  class14b.md   | [Link](https://nada0795.github.io/reading-note/class14b)|      
+|  class01.md    | [Link](https://nada0795.github.io/reading-notes/201%20Course/class01)|
+|  class02.md    | [Link](https://nada0795.github.io/reading-notes/201%20Course/class02)| 
+|  class03.md    |[Link](https://nada0795.github.io/reading-notes/201%20Course/class03)|  
+|  class04.md    | [Link](https://nada0795.github.io/reading-notes/201%20Course/class04)|
+|  class05.md    | [Link](https://nada0795.github.io/reading-notes/201%20Course/class05)| 
+|  class06.md    | [Link](https://nada0795.github.io/reading-notes/201%20Course/class06)|
+|  class07.md    | [Link](https://nada0795.github.io/reading-notes/201%20Course/class07)| 
+|  class08.md    |[Link](https://nada0795.github.io/reading-notes/201%20Course/class08)| 
+|  class09.md    | [Link](https://nada0795.github.io/reading-notes/201%20Course/class09)|
+|  class10.md    | [Link](https://nada0795.github.io/reading-notes/201%20Course/class10)| 
+|  class11.md    | [Link](https://nada0795.github.io/reading-notes/201%20Course/class11)| 
+|  class12.md    | [Link](https://nada0795.github.io/reading-notes/201%20Course/class12)| 
+|  class13.md    | [Link](https://nada0795.github.io/reading-notes/201%20Course/class13)|
+|  class14a.md   | [Link](https://nada0795.github.io/reading-notes/201%20Course/class14a)|
+|  class14b.md   | [Link](https://nada0795.github.io/reading-notes/201%20Course/class14b)|
 
 
 
@@ -52,7 +52,7 @@ This table is talk about the reading in course 301
 
 | File Name      | Titel         |  File Link     |
 | :------------- | :----------:  |  :----------:  |
-| 301.Read01.md|React and Components|[Link](https://nada0795.github.io/reading-notes/301%20Course/301.Read01)|
+| 301.Read01.md|Introduction to React and Components|[Link](https://nada0795.github.io/reading-notes/301%20Course/301.Read01)|
 |  Read02.md    |  State and Props|           |
 |  Read03.md     | Passing Functions as Props |   |          |    
 |  Read04.md    | React and Forms | |          | 
