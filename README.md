@@ -52,7 +52,7 @@ This table is talk about the reading in course 301
 
 | File Name      | Titel         |  File Link     |
 | :------------- | :----------:  |  :----------:   |
-|  301.Read01.md | Introduction to React and Components | |[Link](https://nada0795.github.io/reading-note/301.Read01)|
+|  301.Read01.md | Introduction to React and Components | |[Link](https://github.com/Nada0795/reading-notes/blob/main/301%20Course/301.Read01.md)|
 |  Read02.md    |  State and Props| |          |
 |  Read03.md     | Passing Functions as Props |   |          |    
 |  Read04.md    | React and Forms | |          | 
