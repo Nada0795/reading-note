@@ -50,9 +50,9 @@ we use :
 ## Code 301 - Intermediate Software Development
 This table is talk about the reading in course 301
 
-| File name      | Titel         |  File name      |
+| File Name      | Titel         |  File Link     |
 | :------------- | :----------:  |  :----------:   |
-|  301.Read01.md    | Introduction to React and Components | |  [Link] (https://nada0795.github.io/reading-notes/301.Read01) |
+|  301.Read01.md    | Introduction to React and Components | |  [Link](https://nada0795.github.io/reading-notes/301.Read01)|
 |  Read02.md    |  State and Props| |          |
 |  Read03.md     | Passing Functions as Props |   |          |    
 |  Read04.md    | React and Forms | |          | 
