@@ -54,8 +54,8 @@ This table is talk about the reading in course 301
 | :------------- | :----------:  |  :----------:  |
 | 301.Read01.md|Introduction to React and Components|[Link](https://nada0795.github.io/reading-notes/301%20Course/301.Read01)|
 |  Read02.md    |  State and Props|[Link](https://nada0795.github.io/reading-notes/301%20Course/301.Read02)           |
-|  Read03.md     | Passing Functions as Props |[Link](https://nada0795.github.io/reading-notes/301%20Course/301.Read03)           |    
-|  Read04.md    | React and Forms | |          | 
+|  Read03.md     | Passing Functions as Props |[Link](https://nada0795.github.io/reading-notes/301%20Course/301.Read03)|    
+|  Read04.md    | React and Forms |[Link](https://nada0795.github.io/reading-notes/301%20Course/301.Read04)           | 
 |  Read05.md     | Putting it all together | |          | 
 |  Read06.md    | NODE.JS | |          | 
 |  Read07.md    | REST | |          | 
