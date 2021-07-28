@@ -56,7 +56,7 @@ This table is talk about the reading in course 301
 |  Read02.md    |  State and Props|[Link](https://nada0795.github.io/reading-notes/301%20Course/301.Read02)           |
 |  Read03.md     | Passing Functions as Props |[Link](https://nada0795.github.io/reading-notes/301%20Course/301.Read03)|    
 |  Read04.md    | React and Forms |[Link](https://nada0795.github.io/reading-notes/301%20Course/301.Read04)           | 
-|  Read05.md     | Putting it all together | |          | 
+|  Read05.md     | Putting it all together |[Link](https://nada0795.github.io/reading-notes/301%20Course/301.Read05)       | 
 |  Read06.md    | NODE.JS | |          | 
 |  Read07.md    | REST | |          | 
 |  Read08.md    | APIs | |          | 
