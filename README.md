@@ -59,7 +59,7 @@ This table is talk about the reading in course 301
 |  Read05.md     | Putting it all together |[Link](https://nada0795.github.io/reading-notes/301%20Course/301.Read05)       | 
 |  Read06.md    | NODE.JS |[Link](https://nada0795.github.io/reading-notes/301%20Course/301.Read06)          | 
 |  Read07.md    | REST |[Link](https://nada0795.github.io/reading-notes/301%20Course/301.Read07)          | 
-|  Read08.md    | APIs | |          | 
+|  Read08.md    | APIs |[Link](https://nada0795.github.io/reading-notes/301%20Course/301.Read08)          | 
 |  Read09.md    | FUNCTIONAL PROGRAMMING | |          | 
 |  Read10.md    | In memory storage | |          | 
 |  Read11.md    | Authentication | |          | 
