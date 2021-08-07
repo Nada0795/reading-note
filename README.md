@@ -62,7 +62,7 @@ This table is talk about the reading in course 301
 |  Read08.md    | APIs |[Link](https://nada0795.github.io/reading-notes/301%20Course/301.Read08)          | 
 |  Read09.md    | FUNCTIONAL PROGRAMMING |[Link](https://nada0795.github.io/reading-notes/301%20Course/301.Read09)          | 
 |  Read10.md    | In memory storage |[Link](https://nada0795.github.io/reading-notes/301%20Course/301.Read10)          | 
-|  Read11.md    | Authentication | |          | 
+|  Read11.md    | Authentication |[Link](https://nada0795.github.io/reading-notes/301%20Course/301.Read11)        | 
 |  Read12.md    | Mongo and Mongoose | |          | 
 |  Read13.md    | CRUD | |          | 
 |  Read14.md    | Diversity & Inclusion in the Tech Industry | |          | 
