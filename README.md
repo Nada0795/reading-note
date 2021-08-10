@@ -65,7 +65,7 @@ This table is talk about the reading in course 301
 |  Read11.md    | Authentication |[Link](https://nada0795.github.io/reading-notes/301%20Course/301.Read11)        | 
 |  Read12.md    | Mongo and Mongoose |[Link](https://nada0795.github.io/reading-notes/301%20Course/301.Read12)         | 
 |  Read13.md    | CRUD |[Link](https://nada0795.github.io/reading-notes/301%20Course/301.Read13)         | 
-|  Read14.md    | Diversity & Inclusion in the Tech Industry | |          | 
+|  Read14a.md    | Diversity & Inclusion in the Tech Industry |[Link](https://nada0795.github.io/reading-notes/301%20Course/301.Read14a)        | 
 |  Read15.md    | Project Kickoff | |          | 
 
 
